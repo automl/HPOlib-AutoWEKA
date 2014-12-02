@@ -1,3 +1,9 @@
+# User specific
+autoweka-0.5/*
+Data.tar.gz
+Data/*
+*~
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
