@@ -25,7 +25,7 @@ import subprocess
 import sys
 import time
 
-import HPOlib.benchmark_util as benchmark_util
+import HPOlib.benchmarks.benchmark_util as benchmark_util
 import HPOlib.wrapping_util as wrapping_util
 
 def reduce_params(params):
